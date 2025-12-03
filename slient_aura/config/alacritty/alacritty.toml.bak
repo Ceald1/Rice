@@ -1,0 +1,7 @@
+[terminal.shell]
+program = "/usr/bin/fish"
+
+[window]
+opacity = 0.8
+
+[terminal]
